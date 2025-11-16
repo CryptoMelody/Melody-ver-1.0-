@@ -28,7 +28,7 @@ THE COMMAND IS ONLY ON ENDLISH BECAUSE VISUAL STUDIO ON MY COMPUTER DOESN'T SUPP
 ***SyntaxError: (unicode error) 'utf-8' codec can't decode byte 0xe2 in position 0: invalid continuation byte***
 
 
-THIS LINE IN THE CODE JUST REMOVING THE FIRST LETTERS AND SPACES:
+THIS LINES IN THE CODE RESPONSIBLE FOR REMOVING THE FIRST LETTERS AND SPACES:
 
 **elif command_lower.startswith('search'):**
 
