@@ -21,3 +21,18 @@ IF YOU TRY TO SPEAK ON ANOTHER LANGUAGE THE VOICE RECOGNITION TEXT YOU SOME RAND
 
 
 ![photo_2025-11-16_23-19-23](https://github.com/user-attachments/assets/1c66a2f2-1341-42a6-b748-8ea7962781f0)
+
+THE COMMAND IS ONLY ON ENDLISH BECAUSE VISUAL STUDIO ON MYCOMPUTER DOESN'T SUPPORT USSIAN LANGUAGE AND I RECIEVE THIS KIND OF THE MESSAGE FROM CONSOLE:
+
+***SyntaxError: (unicode error) 'utf-8' codec can't decode byte 0xe2 in position 0: invalid continuation byte***
+
+THIS LINE IN THE CODE JUST REMOVING THE FIRST LETTERS AND SPACES:
+**elif command_lower.startswith('search'):**
+**p = command[6:].strip()** #IN THIS EXAMPLE WE REMOVE "search"
+
+search - 6 letters, so that's why to remove this all word we have to write: **command[6:].strip()****
+
+*Fun fact: after writing the line below i noticed some mistakes in my code (but it  actually work without solving them) :)*
+
+
+
