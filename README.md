@@ -6,7 +6,7 @@ All you have to do is:
   
 3. Download the version of vosk model(That depends on which language you choose and which amount of the words you will use) in my example i use the small English model(that approximetaly 45M words).
    
-4.Then you should download the audio of the voice assistant, copy the path of them and paste them into the code.
+4.Then you should download the audio of the voice assistant, copy the path of them and paste into the code.
 
 5.Finally you have to run it and enjoy.
 
