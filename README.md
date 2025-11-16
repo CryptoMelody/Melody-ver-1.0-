@@ -31,6 +31,7 @@ THE COMMAND IS ONLY ON ENDLISH BECAUSE VISUAL STUDIO ON MY COMPUTER DOESN'T SUPP
 THIS LINE IN THE CODE JUST REMOVING THE FIRST LETTERS AND SPACES:
 
 **elif command_lower.startswith('search'):**
+
 **p = command[6:].strip()** #IN THIS EXAMPLE WE REMOVE "search"
 
 search - 6 letters, so that's why to remove this all word we have to write: **command[6:].strip()****
