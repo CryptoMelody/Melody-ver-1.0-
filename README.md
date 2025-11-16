@@ -4,7 +4,7 @@ All you have to do is:
 
 2. After that just copy and paste this code into the visual studio, Python IDLE or PyCharm
   
-3. Download the version of vosk model(That depends on which language you choose and which amount of the words you will use) in my example i use the English small model(that approximetaly 45M words).
+3. Download the version of vosk model(That depends on which language you choose and which amount of the words you will use) in my example i use the small English model(that approximetaly 45M words).
    
 4.Then you should download the audio of the voice assistant, copy the path of them and paste them into the code.
 
