@@ -38,7 +38,7 @@ search - 6 letters, so that's why to remove this all word we have to write: **co
 
 
 
-*Fun fact: after writing the line below i noticed some mistakes in my code (but it  actually work without solving them) :)*
+*Fun fact: after writing the line above i noticed some mistakes in my code (but it  actually work without solving them) :)*
 
 
 
